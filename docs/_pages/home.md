@@ -14,8 +14,8 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    title: "Gym"
+    excerpt: "We have a nice gym"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
