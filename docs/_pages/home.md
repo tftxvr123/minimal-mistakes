@@ -32,7 +32,7 @@ feature_row:
     excerpt: "Fully charged"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Nothing to learn here"      
 ---
 
 {% include feature_row %}
